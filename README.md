@@ -4,6 +4,12 @@ Backend Repo Link: https://github.com/Its-Anth0ny/hero-backend
 
 Frontend Repo Link: https://github.com/Its-Anth0ny/hero-frontend
 
+## Functionalities
+1. Search functionality in the dashboard
+2. Add/ Delete Program
+3. View the program without ability to edit
+4. When clicked on edit all fields should be enabled for edit
+
 ## Signup Page
 ![image](https://github.com/Its-Anth0ny/hero-program-dash/assets/81018055/d16811eb-60c9-4a35-981b-3e0b9e1c8836)
 
