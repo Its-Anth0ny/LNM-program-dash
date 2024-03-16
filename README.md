@@ -1,4 +1,4 @@
-# hero-program-dashboard
+# LNM-program-dashboard
 
 Live Link: https://hero-frontend-ruby.vercel.app/
 
