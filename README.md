@@ -2,9 +2,9 @@
 
 Live Link: https://hero-frontend-ruby.vercel.app/
 
-Backend Repo Link: https://github.com/Its-Anth0ny/hero-backend
+Backend Repo Link: https://github.com/Its-Anth0ny/LNM-program-backend
 
-Frontend Repo Link: https://github.com/Its-Anth0ny/hero-frontend
+Frontend Repo Link: https://github.com/Its-Anth0ny/LNM-program-frontend
 
 ## Functionalities
 1. Signup and Login Page
