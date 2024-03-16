@@ -19,7 +19,7 @@ Frontend Repo Link: https://github.com/Its-Anth0ny/hero-frontend
 ## Login Page
 ![image](https://github.com/Its-Anth0ny/hero-program-dash/assets/81018055/988b981a-1411-41ac-be47-e7b4ee347bac)
 
-## Dashoard
+## Dashboard
 ![image](https://github.com/Its-Anth0ny/hero-program-dash/assets/81018055/7daea36b-f43e-45d1-a1ac-3e43342841c1)
 
 ## Form
