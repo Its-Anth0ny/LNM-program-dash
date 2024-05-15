@@ -1,6 +1,6 @@
 # LNM-program-dashboard
 
-Live Link: https://hero-frontend-ruby.vercel.app/ (Temporarily unavailable due to ongoing changes)
+Live Link: https://lnm-program-frontend.vercel.app/ (Temporarily unavailable due to ongoing changes)
 
 Backend Repo Link: https://github.com/Its-Anth0ny/LNM-program-backend
 
