@@ -5,7 +5,7 @@
 #### Video link: https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing
 
 <video width="600" controls>
-  <source src="https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq" type="video/mp4">
 </video>
 
 #### Backend Repo Link: https://github.com/Its-Anth0ny/LNM-program-backend
