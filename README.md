@@ -2,7 +2,11 @@
 
 ### Live Link: https://lnm-program-frontend.vercel.app/ (Some features might not work due to ongoing changes)
 
-### Video link: https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing
+#### Video link: https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing
+
+<video width="600" controls>
+  <source src="https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing" type="video/mp4">
+</video>
 
 #### Backend Repo Link: https://github.com/Its-Anth0ny/LNM-program-backend
 
