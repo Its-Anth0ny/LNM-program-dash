@@ -1,6 +1,4 @@
-# LNM-program-dashboard
-
-### Live Link: https://lnm-program-frontend.vercel.app/ (Some features might not work due to ongoing changes)
+#### Live Link: https://lnm-program-frontend.vercel.app/ (Some features might not work due to ongoing changes)
 
 #### Video link: https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing
 
