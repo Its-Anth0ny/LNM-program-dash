@@ -29,7 +29,7 @@ Check out the live version of the project:
 Watch the demo video for a walkthrough of the application:
 [Demo Video](https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing)
 
-[![LNM Program Dashboard Demo](https://github.com/Its-Anth0ny/LNM-program-dash/assets/81018055/fb491a84-9c0b-4780-ad12-9a96ca381c24)](https://drive.google.com/file/d/1cxhqDKShqq25Lsx8ZvWrn9WXGpHUCpwq/view?usp=sharing)
+https://github.com/Its-Anth0ny/LNM-program-dash/assets/81018055/7229e921-80c5-4380-9c79-cf52645252d4
 
 ## Technologies Used
 ### Frontend:
